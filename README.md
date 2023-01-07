@@ -1,4 +1,4 @@
-<img src="https://github.com/Parth-1602/jsm-openai-codex/blob/main/frontend_react/src/assets/logo.png"></img>
+<img src="https://github.com/Parth-1602/jsm-personal-portfolio/blob/main/frontend_react/src/assets/logo.png"></img>
 
 
 <h1 align="center">Personal Portfolio</h1>
